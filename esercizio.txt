@@ -1,0 +1,9 @@
+cpu: amd ryzen 5 5600x 6 core/ 12 thread 3.7 mhz max clock 4.6 mhz
+ram: 2x ddr4 , 3200 mhz (dual channel) corsair
+ssd: 2x crucial 500 gb 500mb/s
+nmve:wd gen 4 m2 500gb 3600mb/s
+gpu: nvidia geforce 3070ti 1830 mhz 8gb vram GDDR6X
+scheda di rete: intel i211 gigabit network
+scheda madre: asus rog strix b450-F gaming II am4 
+sistema operativo: windows 11 home 64-bit Build 22621.2428 (22H2)
+sistema di raffreddamento: 1x aio pump 260mm
